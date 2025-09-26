@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Plus, Search, Edit2, Trash2, Shield, User, Mail, Clock, Settings as SettingsIcon, Users, LogOut } from 'lucide-react';
+import { Plus, Search, CreditCard as Edit2, Trash2, Shield, User, Mail, Clock, Settings as SettingsIcon, Users, LogOut } from 'lucide-react';
 import { useAuth, User as UserType } from '../contexts/AuthContext';
 import UserModal from '../components/UserModal';
 
